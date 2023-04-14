@@ -4,7 +4,7 @@ body{
     padding: 0;
 }
 .menu ul{
-    background-color: #CCC;
+    background-color: rgba(67, 29, 202, 0.925);
     margin: 0;
     padding: 2em;
 }
